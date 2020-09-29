@@ -1,0 +1,31 @@
+{
+    "name": "realtime-video-statistics-in-video-title",
+    "version": "1.0.0",
+    "description": "Realtime video's statistics in video's Title & Description",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "googleapis": "^60.0.1",
+        "node-cron": "^2.0.3",
+        "readline": "^1.3.0",
+        "file-system": "^2.2.2"
+
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/cachecleanerjeet/realtime-video-statistics-in-video-title.git"
+    },
+    "keywords": [
+        "youtube",
+        "realtime-statistics"
+    ],
+    "author": "Tuhin Kanti Pal",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/cachecleanerjeet/realtime-video-statistics-in-video-title/issues"
+    },
+    "homepage": "https://github.com/cachecleanerjeet/realtime-video-statistics-in-video-title#readme"
+}

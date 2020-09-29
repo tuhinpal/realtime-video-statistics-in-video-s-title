@@ -73,6 +73,15 @@ forever start index.js
 
 **Now your video's Title & Description will update in every 2 minutes.**
 
+### Precaution
+- Don't ever Public your <tt>topsecret.json</tt>, <tt>clientSecret</tt> & <tt>clientId</tt>. Otherwise your YouTube account will compromised.
+
+### What is <tt>https://authcode.netlify.app</tt> ?
+- OAuth needs a redirect uri.
+- That redirect uri contains the authorization code.
+- That website just display the code to you from url.
+- The website's source code available [Here](https://github.com/jeet-private/cool "Here").
+
 ### Credits
 [YouTube Api Sample](https://github.com/youtube/api-samples/blob/07263305b59a7c3275bc7e925f9ce6cabf774022/javascript/nodejs-quickstart.js "YouTube Api Sample")
 

@@ -31,13 +31,13 @@
 - Clone the repo.
 
 ```bash
-git clone https://github.com/cachecleanerjeet/realtime-video-statistics-in-video-title.git
+git clone https://github.com/cachecleanerjeet/realtime-video-statistics-in-video-s-title.git
 ```
 
 - Goto the directory.
 
 ```bash
-cd realtime-video-statistics-in-video-title
+cd realtime-video-statistics-in-video-s-title
 ```
 
 - Install the Dependencies.
